@@ -140,6 +140,34 @@ p {
     padding: 3% 2%;
 }
 
+/* Call To Action */
+
+#cta{
+    background-color: #ff4c68;
+    color: white;
+    padding: 7% 15%; 
+    text-align: center;
+}
+
+.cta-heading{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+
+/* Footer */
+
+#footer{
+    background-color: white;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
 @media (max-width: 1028px){
 
     #title {
@@ -150,28 +178,4 @@ p {
         position: static;
         transform: rotate(0);
     }
-}
-
-/* Call To Action */
-
-#cta{
-    background-color: #ff4c68;
-    padding:100px; 
-    text-align: center;
-}
-
-.last-button{
-    margin: 10px;
-}
-
-/* Footer */
-
-#footer{
-    background-color: white;
-    padding: 100px;
-    text-align: center;
-}
-
-.fab{
-    margin: 10px;
 }
