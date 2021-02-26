@@ -26,6 +26,7 @@ h2{
 }
 
 h3{
+    /* color: white; */
     font-family: "Montserrat";
     font-weight: 700;
 }
@@ -149,4 +150,24 @@ p {
         position: static;
         transform: rotate(0);
     }
+}
+
+/* Call To Action */
+
+#cta{
+    background-color: #ff4c68;
+    padding:100px; 
+    text-align: center;
+}
+
+/* .btn{
+    text-align: center;
+} */
+
+/* Footer */
+
+#footer{
+    background-color: white;
+    padding: 100px;
+    text-align: center;
 }
