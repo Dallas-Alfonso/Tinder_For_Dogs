@@ -160,9 +160,9 @@ p {
     text-align: center;
 }
 
-/* .btn{
-    text-align: center;
-} */
+.last-button{
+    margin: 10px;
+}
 
 /* Footer */
 
@@ -170,4 +170,8 @@ p {
     background-color: white;
     padding: 100px;
     text-align: center;
+}
+
+.fab{
+    margin: 10px;
 }
